@@ -1,0 +1,848 @@
+World: 
+Predicted cases for the next 24 hours: 140337889.70
+Predicted cases for the next 1 week: 141078284.78
+Predicted cases for the next 1 month: 143673250.69
+United States: 
+Predicted cases for the next 24 hours: 34177786.19
+Predicted cases for the next 1 week: 34357696.47
+Predicted cases for the next 1 month: 34988253.12
+Brazil: 
+Predicted cases for the next 24 hours: 20932927.59
+Predicted cases for the next 1 week: 21044001.50
+Predicted cases for the next 1 month: 21433297.71
+India: 
+Predicted cases for the next 24 hours: 17536674.46
+Predicted cases for the next 1 week: 17630192.43
+Predicted cases for the next 1 month: 17957957.89
+Russia: 
+Predicted cases for the next 24 hours: 6217081.23
+Predicted cases for the next 1 week: 6249787.43
+Predicted cases for the next 1 month: 6364417.41
+Peru: 
+Predicted cases for the next 24 hours: 4644297.19
+Predicted cases for the next 1 week: 4669470.01
+Predicted cases for the next 1 month: 4757696.69
+Colombia: 
+Predicted cases for the next 24 hours: 4231184.45
+Predicted cases for the next 1 week: 4254457.22
+Predicted cases for the next 1 month: 4336024.56
+South Africa: 
+Predicted cases for the next 24 hours: 3829782.09
+Predicted cases for the next 1 week: 3850382.36
+Predicted cases for the next 1 month: 3922582.98
+Chile: 
+Predicted cases for the next 24 hours: 3476490.28
+Predicted cases for the next 1 week: 3495377.59
+Predicted cases for the next 1 month: 3561574.55
+Mexico: 
+Predicted cases for the next 24 hours: 3246658.49
+Predicted cases for the next 1 week: 3263845.56
+Predicted cases for the next 1 month: 3324083.47
+Spain: 
+Predicted cases for the next 24 hours: 2604976.56
+Predicted cases for the next 1 week: 2618470.16
+Predicted cases for the next 1 month: 2665763.06
+Saudi Arabia: 
+Predicted cases for the next 24 hours: 2520858.94
+Predicted cases for the next 1 week: 2534495.02
+Predicted cases for the next 1 month: 2582287.30
+Bangladesh: 
+Predicted cases for the next 24 hours: 2327986.49
+Predicted cases for the next 1 week: 2340623.11
+Predicted cases for the next 1 month: 2384912.43
+United Kingdom: 
+Predicted cases for the next 24 hours: 2272180.91
+Predicted cases for the next 1 week: 2283948.79
+Predicted cases for the next 1 month: 2325193.32
+Iran: 
+Predicted cases for the next 24 hours: 2250219.23
+Predicted cases for the next 1 week: 2261983.85
+Predicted cases for the next 1 month: 2303216.97
+Argentina: 
+Predicted cases for the next 24 hours: 2226658.15
+Predicted cases for the next 1 week: 2238665.13
+Predicted cases for the next 1 month: 2280747.63
+Turkey: 
+Predicted cases for the next 24 hours: 1953214.70
+Predicted cases for the next 1 week: 1963510.62
+Predicted cases for the next 1 month: 1999596.16
+Pakistan: 
+Predicted cases for the next 24 hours: 1881856.78
+Predicted cases for the next 1 week: 1891763.98
+Predicted cases for the next 1 month: 1926487.15
+Italy: 
+Predicted cases for the next 24 hours: 1781575.00
+Predicted cases for the next 1 week: 1790668.42
+Predicted cases for the next 1 month: 1822539.37
+France: 
+Predicted cases for the next 24 hours: 1669298.47
+Predicted cases for the next 1 week: 1677965.52
+Predicted cases for the next 1 month: 1708342.15
+Germany: 
+Predicted cases for the next 24 hours: 1562411.40
+Predicted cases for the next 1 week: 1570438.69
+Predicted cases for the next 1 month: 1598573.04
+Iraq: 
+Predicted cases for the next 24 hours: 1138713.89
+Predicted cases for the next 1 week: 1144775.86
+Predicted cases for the next 1 month: 1166022.08
+Kazakhstan: 
+Predicted cases for the next 24 hours: 1026538.11
+Predicted cases for the next 1 week: 1032177.07
+Predicted cases for the next 1 month: 1051940.71
+Philippines: 
+Predicted cases for the next 24 hours: 997093.77
+Predicted cases for the next 1 week: 1002386.92
+Predicted cases for the next 1 month: 1020938.58
+Bolivia: 
+Predicted cases for the next 24 hours: 908868.79
+Predicted cases for the next 1 week: 913866.74
+Predicted cases for the next 1 month: 931383.75
+Indonesia: 
+Predicted cases for the next 24 hours: 898754.60
+Predicted cases for the next 1 week: 903497.93
+Predicted cases for the next 1 month: 920122.54
+Canada: 
+Predicted cases for the next 24 hours: 859839.00
+Predicted cases for the next 1 week: 864307.67
+Predicted cases for the next 1 month: 879969.64
+Ukraine: 
+Predicted cases for the next 24 hours: 849683.11
+Predicted cases for the next 1 week: 854291.95
+Predicted cases for the next 1 month: 870445.17
+Qatar: 
+Predicted cases for the next 24 hours: 771849.60
+Predicted cases for the next 1 week: 775889.01
+Predicted cases for the next 1 month: 790046.51
+Panama: 
+Predicted cases for the next 24 hours: 706678.48
+Predicted cases for the next 1 week: 710536.13
+Predicted cases for the next 1 month: 724056.58
+Ecuador: 
+Predicted cases for the next 24 hours: 630341.24
+Predicted cases for the next 1 week: 633637.66
+Predicted cases for the next 1 month: 645191.07
+Egypt: 
+Predicted cases for the next 24 hours: 612975.16
+Predicted cases for the next 1 week: 616195.46
+Predicted cases for the next 1 month: 627482.09
+Guatemala: 
+Predicted cases for the next 24 hours: 600511.06
+Predicted cases for the next 1 week: 603826.12
+Predicted cases for the next 1 month: 615444.85
+Israel: 
+Predicted cases for the next 24 hours: 599709.68
+Predicted cases for the next 1 week: 602875.09
+Predicted cases for the next 1 month: 613969.35
+Sweden: 
+Predicted cases for the next 24 hours: 551758.44
+Predicted cases for the next 1 week: 554644.11
+Predicted cases for the next 1 month: 564757.91
+Belgium: 
+Predicted cases for the next 24 hours: 541502.45
+Predicted cases for the next 1 week: 544297.13
+Predicted cases for the next 1 month: 554092.02
+Honduras: 
+Predicted cases for the next 24 hours: 494680.92
+Predicted cases for the next 1 week: 497405.65
+Predicted cases for the next 1 month: 506955.41
+Kuwait: 
+Predicted cases for the next 24 hours: 494135.40
+Predicted cases for the next 1 week: 496733.94
+Predicted cases for the next 1 month: 505841.41
+Poland: 
+Predicted cases for the next 24 hours: 491265.36
+Predicted cases for the next 1 week: 493913.32
+Predicted cases for the next 1 month: 503194.00
+Oman: 
+Predicted cases for the next 24 hours: 486033.34
+Predicted cases for the next 1 week: 488588.64
+Predicted cases for the next 1 month: 497544.53
+Dominican Republic: 
+Predicted cases for the next 24 hours: 479642.51
+Predicted cases for the next 1 week: 482152.24
+Predicted cases for the next 1 month: 490948.45
+Belarus: 
+Predicted cases for the next 24 hours: 455544.89
+Predicted cases for the next 1 week: 457901.52
+Predicted cases for the next 1 month: 466161.10
+Romania: 
+Predicted cases for the next 24 hours: 442418.47
+Predicted cases for the next 1 week: 444748.93
+Predicted cases for the next 1 month: 452916.80
+Netherlands: 
+Predicted cases for the next 24 hours: 441689.21
+Predicted cases for the next 1 week: 443972.81
+Predicted cases for the next 1 month: 451976.46
+United Arab Emirates: 
+Predicted cases for the next 24 hours: 426612.04
+Predicted cases for the next 1 week: 428829.80
+Predicted cases for the next 1 month: 436602.68
+China: 
+Predicted cases for the next 24 hours: 406142.39
+Predicted cases for the next 1 week: 408011.62
+Predicted cases for the next 1 month: 414563.00
+Portugal: 
+Predicted cases for the next 24 hours: 390539.43
+Predicted cases for the next 1 week: 392579.02
+Predicted cases for the next 1 month: 399727.48
+Singapore: 
+Predicted cases for the next 24 hours: 375916.77
+Predicted cases for the next 1 week: 377880.75
+Predicted cases for the next 1 month: 384764.17
+Kyrgyzstan: 
+Predicted cases for the next 24 hours: 373706.72
+Predicted cases for the next 1 week: 375776.33
+Predicted cases for the next 1 month: 383030.00
+Ghana: 
+Predicted cases for the next 24 hours: 370082.34
+Predicted cases for the next 1 week: 372109.24
+Predicted cases for the next 1 month: 379213.21
+Ethiopia: 
+Predicted cases for the next 24 hours: 360775.57
+Predicted cases for the next 1 week: 362778.50
+Predicted cases for the next 1 month: 369798.46
+Venezuela: 
+Predicted cases for the next 24 hours: 353435.18
+Predicted cases for the next 1 week: 355393.43
+Predicted cases for the next 1 month: 362256.80
+Japan: 
+Predicted cases for the next 24 hours: 336856.77
+Predicted cases for the next 1 week: 338631.32
+Predicted cases for the next 1 month: 344850.81
+Uzbekistan: 
+Predicted cases for the next 24 hours: 327071.40
+Predicted cases for the next 1 week: 328875.96
+Predicted cases for the next 1 month: 335200.63
+Bahrain: 
+Predicted cases for the next 24 hours: 302458.58
+Predicted cases for the next 1 week: 304053.75
+Predicted cases for the next 1 month: 309644.59
+Costa Rica: 
+Predicted cases for the next 24 hours: 297922.31
+Predicted cases for the next 1 week: 299569.39
+Predicted cases for the next 1 month: 305342.13
+Moldova: 
+Predicted cases for the next 24 hours: 287104.23
+Predicted cases for the next 1 week: 288668.84
+Predicted cases for the next 1 month: 294152.54
+Puerto Rico: 
+Predicted cases for the next 24 hours: 268124.32
+Predicted cases for the next 1 week: 269610.02
+Predicted cases for the next 1 month: 274817.13
+Switzerland: 
+Predicted cases for the next 24 hours: 262902.27
+Predicted cases for the next 1 week: 264248.22
+Predicted cases for the next 1 month: 268965.57
+Nigeria: 
+Predicted cases for the next 24 hours: 262072.09
+Predicted cases for the next 1 week: 263423.12
+Predicted cases for the next 1 month: 268158.26
+Armenia: 
+Predicted cases for the next 24 hours: 228308.96
+Predicted cases for the next 1 week: 229484.80
+Predicted cases for the next 1 month: 233605.93
+Algeria: 
+Predicted cases for the next 24 hours: 214319.84
+Predicted cases for the next 1 week: 215437.00
+Predicted cases for the next 1 month: 219352.49
+Afghanistan: 
+Predicted cases for the next 24 hours: 212270.85
+Predicted cases for the next 1 week: 213353.79
+Predicted cases for the next 1 month: 217149.30
+El Salvador: 
+Predicted cases for the next 24 hours: 209819.20
+Predicted cases for the next 1 week: 210978.35
+Predicted cases for the next 1 month: 215041.00
+Palestine: 
+Predicted cases for the next 24 hours: 194273.03
+Predicted cases for the next 1 week: 195334.78
+Predicted cases for the next 1 month: 199056.04
+Ireland: 
+Predicted cases for the next 24 hours: 187948.95
+Predicted cases for the next 1 week: 188909.07
+Predicted cases for the next 1 month: 192274.13
+Azerbaijan: 
+Predicted cases for the next 24 hours: 183958.68
+Predicted cases for the next 1 week: 184909.16
+Predicted cases for the next 1 month: 188240.43
+Austria: 
+Predicted cases for the next 24 hours: 165622.53
+Predicted cases for the next 1 week: 166475.59
+Predicted cases for the next 1 month: 169465.45
+Cote d'Ivoire: 
+Predicted cases for the next 24 hours: 156027.29
+Predicted cases for the next 1 week: 156879.94
+Predicted cases for the next 1 month: 159868.36
+Nepal: 
+Predicted cases for the next 24 hours: 147268.89
+Predicted cases for the next 1 week: 148012.55
+Predicted cases for the next 1 month: 150618.97
+Czech Republic: 
+Predicted cases for the next 24 hours: 146795.32
+Predicted cases for the next 1 week: 147564.05
+Predicted cases for the next 1 month: 150258.32
+Australia: 
+Predicted cases for the next 24 hours: 132103.25
+Predicted cases for the next 1 week: 132794.93
+Predicted cases for the next 1 month: 135219.16
+Cameroon: 
+Predicted cases for the next 24 hours: 131687.23
+Predicted cases for the next 1 week: 132384.57
+Predicted cases for the next 1 month: 134828.63
+Madagascar: 
+Predicted cases for the next 24 hours: 126539.31
+Predicted cases for the next 1 week: 127240.87
+Predicted cases for the next 1 month: 129699.72
+Bulgaria: 
+Predicted cases for the next 24 hours: 125675.46
+Predicted cases for the next 1 week: 126362.57
+Predicted cases for the next 1 month: 128770.78
+Kenya: 
+Predicted cases for the next 24 hours: 125453.94
+Predicted cases for the next 1 week: 126092.33
+Predicted cases for the next 1 month: 128329.77
+Sudan: 
+Predicted cases for the next 24 hours: 115082.97
+Predicted cases for the next 1 week: 115708.23
+Predicted cases for the next 1 month: 117899.69
+Bosnia and Herzegovina: 
+Predicted cases for the next 24 hours: 114690.25
+Predicted cases for the next 1 week: 115304.84
+Predicted cases for the next 1 month: 117458.88
+Denmark: 
+Predicted cases for the next 24 hours: 108702.79
+Predicted cases for the next 1 week: 109264.60
+Predicted cases for the next 1 month: 111233.65
+South Korea: 
+Predicted cases for the next 24 hours: 105726.83
+Predicted cases for the next 1 week: 106262.42
+Predicted cases for the next 1 month: 108139.58
+Kosovo: 
+Predicted cases for the next 24 hours: 103113.51
+Predicted cases for the next 1 week: 103681.36
+Predicted cases for the next 1 month: 105671.61
+Hong Kong: 
+Predicted cases for the next 24 hours: 93721.53
+Predicted cases for the next 1 week: 93721.53
+Predicted cases for the next 1 month: 93721.53
+Zambia: 
+Predicted cases for the next 24 hours: 91637.59
+Predicted cases for the next 1 week: 92145.67
+Predicted cases for the next 1 month: 93926.38
+Democratic Republic of Congo: 
+Predicted cases for the next 24 hours: 87895.25
+Predicted cases for the next 1 week: 88373.01
+Predicted cases for the next 1 month: 90047.48
+Tajikistan: 
+Predicted cases for the next 24 hours: 77711.60
+Predicted cases for the next 1 week: 78134.90
+Predicted cases for the next 1 month: 79618.49
+Haiti: 
+Predicted cases for the next 24 hours: 76433.98
+Predicted cases for the next 1 week: 76851.81
+Predicted cases for the next 1 month: 78316.23
+Guinea: 
+Predicted cases for the next 24 hours: 75737.26
+Predicted cases for the next 1 week: 76147.38
+Predicted cases for the next 1 month: 77584.79
+Gabon: 
+Predicted cases for the next 24 hours: 73817.69
+Predicted cases for the next 1 week: 74219.85
+Predicted cases for the next 1 month: 75629.39
+Albania: 
+Predicted cases for the next 24 hours: 69708.13
+Predicted cases for the next 1 week: 70090.12
+Predicted cases for the next 1 month: 71428.94
+Norway: 
+Predicted cases for the next 24 hours: 68848.39
+Predicted cases for the next 1 week: 69200.22
+Predicted cases for the next 1 month: 70433.34
+Mauritania: 
+Predicted cases for the next 24 hours: 63817.55
+Predicted cases for the next 1 week: 64168.01
+Predicted cases for the next 1 month: 65396.35
+Malaysia: 
+Predicted cases for the next 24 hours: 59081.20
+Predicted cases for the next 1 week: 59380.35
+Predicted cases for the next 1 month: 60428.82
+Maldives: 
+Predicted cases for the next 24 hours: 57042.08
+Predicted cases for the next 1 week: 57354.58
+Predicted cases for the next 1 month: 58449.83
+Lebanon: 
+Predicted cases for the next 24 hours: 55544.26
+Predicted cases for the next 1 week: 55827.90
+Predicted cases for the next 1 month: 56822.02
+Zimbabwe: 
+Predicted cases for the next 24 hours: 52066.79
+Predicted cases for the next 1 week: 52356.52
+Predicted cases for the next 1 month: 53371.97
+Namibia: 
+Predicted cases for the next 24 hours: 51904.09
+Predicted cases for the next 1 week: 52193.06
+Predicted cases for the next 1 month: 53205.86
+Paraguay: 
+Predicted cases for the next 24 hours: 48192.03
+Predicted cases for the next 1 week: 48427.52
+Predicted cases for the next 1 month: 49252.86
+Djibouti: 
+Predicted cases for the next 24 hours: 46234.39
+Predicted cases for the next 1 week: 46482.12
+Predicted cases for the next 1 month: 47350.35
+Central African Republic: 
+Predicted cases for the next 24 hours: 44277.19
+Predicted cases for the next 1 week: 44518.86
+Predicted cases for the next 1 month: 45365.89
+Serbia: 
+Predicted cases for the next 24 hours: 44086.70
+Predicted cases for the next 1 week: 44223.43
+Predicted cases for the next 1 month: 44702.62
+Equatorial Guinea: 
+Predicted cases for the next 24 hours: 41679.38
+Predicted cases for the next 1 week: 41907.33
+Predicted cases for the next 1 month: 42706.25
+Greece: 
+Predicted cases for the next 24 hours: 41514.78
+Predicted cases for the next 1 week: 41725.32
+Predicted cases for the next 1 month: 42463.20
+Macedonia: 
+Predicted cases for the next 24 hours: 41084.96
+Predicted cases for the next 1 week: 41272.37
+Predicted cases for the next 1 month: 41929.22
+Nicaragua: 
+Predicted cases for the next 24 hours: 40691.37
+Predicted cases for the next 1 week: 40914.90
+Predicted cases for the next 1 month: 41698.31
+Montenegro: 
+Predicted cases for the next 24 hours: 40453.12
+Predicted cases for the next 1 week: 40676.82
+Predicted cases for the next 1 month: 41460.83
+Croatia: 
+Predicted cases for the next 24 hours: 37520.50
+Predicted cases for the next 1 week: 37708.04
+Predicted cases for the next 1 month: 38365.36
+Finland: 
+Predicted cases for the next 24 hours: 37313.38
+Predicted cases for the next 1 week: 37489.93
+Predicted cases for the next 1 month: 38108.69
+Congo: 
+Predicted cases for the next 24 hours: 36221.69
+Predicted cases for the next 1 week: 36420.79
+Predicted cases for the next 1 month: 37118.63
+Swaziland: 
+Predicted cases for the next 24 hours: 35455.14
+Predicted cases for the next 1 week: 35651.10
+Predicted cases for the next 1 month: 36337.91
+Cape Verde: 
+Predicted cases for the next 24 hours: 33221.83
+Predicted cases for the next 1 week: 33405.26
+Predicted cases for the next 1 month: 34048.17
+Mozambique: 
+Predicted cases for the next 24 hours: 33116.36
+Predicted cases for the next 1 week: 33300.22
+Predicted cases for the next 1 month: 33944.59
+Suriname: 
+Predicted cases for the next 24 hours: 30708.85
+Predicted cases for the next 1 week: 30879.68
+Predicted cases for the next 1 month: 31478.42
+Somalia: 
+Predicted cases for the next 24 hours: 28687.82
+Predicted cases for the next 1 week: 28841.63
+Predicted cases for the next 1 month: 29380.72
+Rwanda: 
+Predicted cases for the next 24 hours: 28512.09
+Predicted cases for the next 1 week: 28669.08
+Predicted cases for the next 1 month: 29219.30
+Cuba: 
+Predicted cases for the next 24 hours: 27841.49
+Predicted cases for the next 1 week: 27989.50
+Predicted cases for the next 1 month: 28508.25
+Slovakia: 
+Predicted cases for the next 24 hours: 26910.83
+Predicted cases for the next 1 week: 27054.73
+Predicted cases for the next 1 month: 27559.07
+Morocco: 
+Predicted cases for the next 24 hours: 25007.08
+Predicted cases for the next 1 week: 24977.28
+Predicted cases for the next 1 month: 24872.83
+Uganda: 
+Predicted cases for the next 24 hours: 24546.15
+Predicted cases for the next 1 week: 24682.01
+Predicted cases for the next 1 month: 25158.21
+South Sudan: 
+Predicted cases for the next 24 hours: 24437.52
+Predicted cases for the next 1 week: 24571.00
+Predicted cases for the next 1 month: 25038.81
+Mali: 
+Predicted cases for the next 24 hours: 24057.34
+Predicted cases for the next 1 week: 24187.11
+Predicted cases for the next 1 month: 24641.91
+Hungary: 
+Predicted cases for the next 24 hours: 21643.70
+Predicted cases for the next 1 week: 21740.58
+Predicted cases for the next 1 month: 22080.12
+Angola: 
+Predicted cases for the next 24 hours: 20786.75
+Predicted cases for the next 1 week: 20902.49
+Predicted cases for the next 1 month: 21308.14
+Syria: 
+Predicted cases for the next 24 hours: 20555.83
+Predicted cases for the next 1 week: 20670.40
+Predicted cases for the next 1 month: 21071.95
+Yemen: 
+Predicted cases for the next 24 hours: 19683.47
+Predicted cases for the next 1 week: 19792.25
+Predicted cases for the next 1 month: 20173.50
+Gambia: 
+Predicted cases for the next 24 hours: 19547.55
+Predicted cases for the next 1 week: 19656.63
+Predicted cases for the next 1 month: 20038.94
+Guinea-Bissau: 
+Predicted cases for the next 24 hours: 18873.90
+Predicted cases for the next 1 week: 18975.56
+Predicted cases for the next 1 month: 19331.87
+Benin: 
+Predicted cases for the next 24 hours: 18853.24
+Predicted cases for the next 1 week: 18956.66
+Predicted cases for the next 1 month: 19319.12
+Sierra Leone: 
+Predicted cases for the next 24 hours: 18511.59
+Predicted cases for the next 1 week: 18612.33
+Predicted cases for the next 1 month: 18965.41
+Slovenia: 
+Predicted cases for the next 24 hours: 18029.09
+Predicted cases for the next 1 week: 18122.99
+Predicted cases for the next 1 month: 18452.08
+Jamaica: 
+Predicted cases for the next 24 hours: 17292.78
+Predicted cases for the next 1 week: 17387.32
+Predicted cases for the next 1 month: 17718.66
+Botswana: 
+Predicted cases for the next 24 hours: 15352.84
+Predicted cases for the next 1 week: 15438.79
+Predicted cases for the next 1 month: 15740.03
+Bahamas: 
+Predicted cases for the next 24 hours: 15349.55
+Predicted cases for the next 1 week: 15434.91
+Predicted cases for the next 1 month: 15734.10
+Lesotho: 
+Predicted cases for the next 24 hours: 14166.71
+Predicted cases for the next 1 week: 14247.89
+Predicted cases for the next 1 month: 14532.42
+Iceland: 
+Predicted cases for the next 24 hours: 13453.42
+Predicted cases for the next 1 week: 13521.62
+Predicted cases for the next 1 month: 13760.64
+Luxembourg: 
+Predicted cases for the next 24 hours: 13177.11
+Predicted cases for the next 1 week: 13218.27
+Predicted cases for the next 1 month: 13362.52
+Trinidad and Tobago: 
+Predicted cases for the next 24 hours: 11468.48
+Predicted cases for the next 1 week: 11531.97
+Predicted cases for the next 1 month: 11754.52
+Liberia: 
+Predicted cases for the next 24 hours: 11365.44
+Predicted cases for the next 1 week: 11427.35
+Predicted cases for the next 1 month: 11644.33
+Tunisia: 
+Predicted cases for the next 24 hours: 10958.67
+Predicted cases for the next 1 week: 11009.77
+Predicted cases for the next 1 month: 11188.86
+Uruguay: 
+Predicted cases for the next 24 hours: 10541.69
+Predicted cases for the next 1 week: 10597.13
+Predicted cases for the next 1 month: 10791.42
+Guyana: 
+Predicted cases for the next 24 hours: 9281.21
+Predicted cases for the next 1 week: 9332.43
+Predicted cases for the next 1 month: 9511.96
+Burkina Faso: 
+Predicted cases for the next 24 hours: 9278.64
+Predicted cases for the next 1 week: 9327.04
+Predicted cases for the next 1 month: 9496.69
+Western Sahara: 
+Predicted cases for the next 24 hours: 9141.33
+Predicted cases for the next 1 week: 9192.61
+Predicted cases for the next 1 month: 9372.31
+Guam: 
+Predicted cases for the next 24 hours: 8980.13
+Predicted cases for the next 1 week: 9029.54
+Predicted cases for the next 1 month: 9202.74
+Cyprus: 
+Predicted cases for the next 24 hours: 8684.30
+Predicted cases for the next 1 week: 8728.91
+Predicted cases for the next 1 month: 8885.24
+Chad: 
+Predicted cases for the next 24 hours: 8673.11
+Predicted cases for the next 1 week: 8719.56
+Predicted cases for the next 1 month: 8882.33
+Sao Tome and Principe: 
+Predicted cases for the next 24 hours: 8110.80
+Predicted cases for the next 1 week: 8154.72
+Predicted cases for the next 1 month: 8308.65
+Niger: 
+Predicted cases for the next 24 hours: 7406.59
+Predicted cases for the next 1 week: 7444.23
+Predicted cases for the next 1 month: 7576.14
+Belize: 
+Predicted cases for the next 24 hours: 7108.41
+Predicted cases for the next 1 week: 7148.22
+Predicted cases for the next 1 month: 7287.76
+Comoros: 
+Predicted cases for the next 24 hours: 4425.39
+Predicted cases for the next 1 week: 4449.86
+Predicted cases for the next 1 month: 4535.62
+Burundi: 
+Predicted cases for the next 24 hours: 4205.71
+Predicted cases for the next 1 week: 4228.98
+Predicted cases for the next 1 month: 4310.50
+Turks and Caicos Islands: 
+Predicted cases for the next 24 hours: 3737.77
+Predicted cases for the next 1 week: 3758.65
+Predicted cases for the next 1 month: 3831.82
+French Polynesia: 
+Predicted cases for the next 24 hours: 3597.22
+Predicted cases for the next 1 week: 3617.10
+Predicted cases for the next 1 month: 3686.76
+Tanzania: 
+Predicted cases for the next 24 hours: 3397.80
+Predicted cases for the next 1 week: 3415.06
+Predicted cases for the next 1 month: 3475.54
+International: 
+Predicted cases for the next 24 hours: 3364.60
+Predicted cases for the next 1 week: 3380.20
+Predicted cases for the next 1 month: 3434.90
+Taiwan: 
+Predicted cases for the next 24 hours: 3139.76
+Predicted cases for the next 1 week: 3155.58
+Predicted cases for the next 1 month: 3211.03
+Papua New Guinea: 
+Predicted cases for the next 24 hours: 3111.82
+Predicted cases for the next 1 week: 3129.19
+Predicted cases for the next 1 month: 3190.07
+Eritrea: 
+Predicted cases for the next 24 hours: 2793.31
+Predicted cases for the next 1 week: 2808.56
+Predicted cases for the next 1 month: 2862.03
+Faeroe Islands: 
+Predicted cases for the next 24 hours: 2065.33
+Predicted cases for the next 1 week: 2075.95
+Predicted cases for the next 1 month: 2113.17
+Jersey: 
+Predicted cases for the next 24 hours: 1931.95
+Predicted cases for the next 1 week: 1941.43
+Predicted cases for the next 1 month: 1974.64
+Cayman Islands: 
+Predicted cases for the next 24 hours: 1560.94
+Predicted cases for the next 1 week: 1569.12
+Predicted cases for the next 1 month: 1597.79
+Gibraltar: 
+Predicted cases for the next 24 hours: 1534.12
+Predicted cases for the next 1 week: 1541.97
+Predicted cases for the next 1 month: 1569.48
+Isle of Man: 
+Predicted cases for the next 24 hours: 1530.45
+Predicted cases for the next 1 week: 1537.58
+Predicted cases for the next 1 month: 1562.54
+Mauritius: 
+Predicted cases for the next 24 hours: 1327.23
+Predicted cases for the next 1 week: 1333.08
+Predicted cases for the next 1 month: 1353.58
+Seychelles: 
+Predicted cases for the next 24 hours: 1110.81
+Predicted cases for the next 1 week: 1116.90
+Predicted cases for the next 1 month: 1138.25
+Bermuda: 
+Predicted cases for the next 24 hours: 1034.24
+Predicted cases for the next 1 week: 1039.48
+Predicted cases for the next 1 month: 1057.85
+Guernsey: 
+Predicted cases for the next 24 hours: 1012.07
+Predicted cases for the next 1 week: 1016.59
+Predicted cases for the next 1 month: 1032.46
+Barbados: 
+Predicted cases for the next 24 hours: 981.77
+Predicted cases for the next 1 week: 986.84
+Predicted cases for the next 1 month: 1004.64
+Antigua and Barbuda: 
+Predicted cases for the next 24 hours: 745.02
+Predicted cases for the next 1 week: 749.03
+Predicted cases for the next 1 month: 763.08
+Brunei: 
+Predicted cases for the next 24 hours: 414.63
+Predicted cases for the next 1 week: 416.25
+Predicted cases for the next 1 month: 421.92
+Northern Mariana Islands: 
+Predicted cases for the next 24 hours: 406.42
+Predicted cases for the next 1 week: 408.59
+Predicted cases for the next 1 month: 416.21
+British Virgin Islands: 
+Predicted cases for the next 24 hours: 282.24
+Predicted cases for the next 1 week: 283.80
+Predicted cases for the next 1 month: 289.25
+San Marino: 
+Predicted cases for the next 24 hours: 201.59
+Predicted cases for the next 1 week: 198.34
+Predicted cases for the next 1 month: 186.97
+Timor: 
+Predicted cases for the next 24 hours: 147.50
+Predicted cases for the next 1 week: 148.23
+Predicted cases for the next 1 month: 150.79
+Saint Lucia: 
+Predicted cases for the next 24 hours: 145.24
+Predicted cases for the next 1 week: 145.96
+Predicted cases for the next 1 month: 148.51
+Bonaire Sint Eustatius and Saba: 
+Predicted cases for the next 24 hours: 131.12
+Predicted cases for the next 1 week: 131.83
+Predicted cases for the next 1 month: 134.30
+Grenada: 
+Predicted cases for the next 24 hours: 109.56
+Predicted cases for the next 1 week: 110.07
+Predicted cases for the next 1 month: 111.88
+New Caledonia: 
+Predicted cases for the next 24 hours: 89.96
+Predicted cases for the next 1 week: 90.37
+Predicted cases for the next 1 month: 91.78
+Laos: 
+Predicted cases for the next 24 hours: 74.53
+Predicted cases for the next 1 week: 74.85
+Predicted cases for the next 1 month: 75.98
+Dominica: 
+Predicted cases for the next 24 hours: 73.66
+Predicted cases for the next 1 week: 73.99
+Predicted cases for the next 1 month: 75.14
+Saint Kitts and Nevis: 
+Predicted cases for the next 24 hours: 61.78
+Predicted cases for the next 1 week: 62.05
+Predicted cases for the next 1 month: 63.00
+Greenland: 
+Predicted cases for the next 24 hours: 51.59
+Predicted cases for the next 1 week: 51.82
+Predicted cases for the next 1 month: 52.62
+Falkland Islands: 
+Predicted cases for the next 24 hours: 39.13
+Predicted cases for the next 1 week: 39.28
+Predicted cases for the next 1 month: 39.83
+Anguilla: 
+Predicted cases for the next 24 hours: 4.45
+Predicted cases for the next 1 week: 4.46
+Predicted cases for the next 1 month: 4.49
+Georgia: 
+Predicted cases for the next 24 hours: -3799.81
+Predicted cases for the next 1 week: -3830.57
+Predicted cases for the next 1 month: -3938.39
+Estonia: 
+Predicted cases for the next 24 hours: -6594.49
+Predicted cases for the next 1 week: -6648.45
+Predicted cases for the next 1 month: -6837.59
+Thailand: 
+Predicted cases for the next 24 hours: -7813.29
+Predicted cases for the next 1 week: -7882.43
+Predicted cases for the next 1 month: -8124.78
+Myanmar: 
+Predicted cases for the next 24 hours: -8262.60
+Predicted cases for the next 1 week: -8316.02
+Predicted cases for the next 1 month: -8503.23
+United States Virgin Islands: 
+Predicted cases for the next 24 hours: -9972.91
+Predicted cases for the next 1 week: -10035.56
+Predicted cases for the next 1 month: -10255.12
+Senegal: 
+Predicted cases for the next 24 hours: -12869.74
+Predicted cases for the next 1 week: -12997.04
+Predicted cases for the next 1 month: -13443.21
+Vietnam: 
+Predicted cases for the next 24 hours: -13295.73
+Predicted cases for the next 1 week: -13379.86
+Predicted cases for the next 1 month: -13674.74
+Liechtenstein: 
+Predicted cases for the next 24 hours: -16231.39
+Predicted cases for the next 1 week: -16328.04
+Predicted cases for the next 1 month: -16666.75
+Montserrat: 
+Predicted cases for the next 24 hours: -16503.92
+Predicted cases for the next 1 week: -16602.35
+Predicted cases for the next 1 month: -16947.35
+Sri Lanka: 
+Predicted cases for the next 24 hours: -20044.00
+Predicted cases for the next 1 week: -20180.75
+Predicted cases for the next 1 month: -20660.05
+Lithuania: 
+Predicted cases for the next 24 hours: -22567.63
+Predicted cases for the next 1 week: -22718.60
+Predicted cases for the next 1 month: -23247.74
+New Zealand: 
+Predicted cases for the next 24 hours: -28308.44
+Predicted cases for the next 1 week: -28488.90
+Predicted cases for the next 1 month: -29121.36
+Mongolia: 
+Predicted cases for the next 24 hours: -31584.12
+Predicted cases for the next 1 week: -31772.85
+Predicted cases for the next 1 month: -32434.31
+Cambodia: 
+Predicted cases for the next 24 hours: -37840.20
+Predicted cases for the next 1 week: -38070.17
+Predicted cases for the next 1 month: -38876.17
+Bhutan: 
+Predicted cases for the next 24 hours: -47904.05
+Predicted cases for the next 1 week: -48188.61
+Predicted cases for the next 1 month: -49185.94
+Vatican: 
+Predicted cases for the next 24 hours: -50386.56
+Predicted cases for the next 1 week: -50685.22
+Predicted cases for the next 1 month: -51731.97
+Malawi: 
+Predicted cases for the next 24 hours: -50625.85
+Predicted cases for the next 1 week: -50947.09
+Predicted cases for the next 1 month: -52072.96
+Monaco: 
+Predicted cases for the next 24 hours: -51051.02
+Predicted cases for the next 1 week: -51360.42
+Predicted cases for the next 1 month: -52444.81
+Aruba: 
+Predicted cases for the next 24 hours: -72170.16
+Predicted cases for the next 1 week: -72604.34
+Predicted cases for the next 1 month: -74126.05
+Jordan: 
+Predicted cases for the next 24 hours: -78061.89
+Predicted cases for the next 1 week: -78532.60
+Predicted cases for the next 1 month: -80182.37
+Andorra: 
+Predicted cases for the next 24 hours: -88490.72
+Predicted cases for the next 1 week: -89020.44
+Predicted cases for the next 1 month: -90877.04
+Latvia: 
+Predicted cases for the next 24 hours: -94368.44
+Predicted cases for the next 1 week: -94932.91
+Predicted cases for the next 1 month: -96911.28
+Curacao: 
+Predicted cases for the next 24 hours: -102380.17
+Predicted cases for the next 1 week: -102988.90
+Predicted cases for the next 1 month: -105122.43
+Saint Vincent and the Grenadines: 
+Predicted cases for the next 24 hours: -104910.32
+Predicted cases for the next 1 week: -105533.66
+Predicted cases for the next 1 month: -107718.38
+Togo: 
+Predicted cases for the next 24 hours: -140199.96
+Predicted cases for the next 1 week: -141034.81
+Predicted cases for the next 1 month: -143960.81
+Libya: 
+Predicted cases for the next 24 hours: -201375.84
+Predicted cases for the next 1 week: -202608.03
+Predicted cases for the next 1 month: -206926.67
+Sint Maarten (Dutch part): 
+Predicted cases for the next 24 hours: -263956.22
+Predicted cases for the next 1 week: -265524.01
+Predicted cases for the next 1 month: -271018.85
+Malta: 
+Predicted cases for the next 24 hours: -314139.75
+Predicted cases for the next 1 week: -315996.38
+Predicted cases for the next 1 month: -322503.59
+Fiji: 
+Predicted cases for the next 24 hours: -460848.06
+Predicted cases for the next 1 week: -463568.91
+Predicted cases for the next 1 month: -473105.04

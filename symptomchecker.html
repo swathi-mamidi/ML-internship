@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Symptom checker</title>
+    <style>
+        *{
+            background-color: powderblue;
+        }
+      
+        #statistics {
+            width: 500px;
+            height: 150px;
+            /* background-color:white; */
+            color:black;
+            font-size: 25px;;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            display:flex;
+            gap:15px;
+            margin-left:450px;
+            padding-left:5px;
+        }
+        .how{
+            display:flex;
+            gap:60px;
+            margin-left:50px;
+
+        }
+        img{
+            width:200px;
+            height:200px;
+        }
+        .spread{
+            width:300px;
+            height:300px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            margin:40px;
+            padding:8px;
+        }
+        h1{
+            align-items:center;
+            margin-left:600px;
+        }
+        .co{
+            width:1000px;
+            display:grid;
+            align-items:center;
+        grid-template-columns:1fr 1fr 1fr;
+        }
+        .steps{
+            display:flex;
+            gap:60px;
+            margin-left:50px;
+        }
+        .s{
+            width:300px;
+            height:300px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            margin:40px;
+            padding:8px;
+        }
+        p{
+            font-size:20px;
+        }
+        
+    </style>
+    </head>
+    <body>
+    <div class="covid">
+        <section style="color:rgb(13,107,130);">
+            <h1>CORANA VIRUS</h1>
+            <h2 style="margin-left:550px;">STAY HOME,STAY SAFE</h2>
+
+        </section>
+        <section class="cases">
+            <h1 style="margin-left:500px;">Track the speed of corana virus</h1>
+            <div id="statistics"></div>
+
+        </section>
+    </div>
+
+    <section>
+        <h2 style="margin-left:550px;">Symptom Checker</h2>
+        <p style="margin-left:30px;font-size:20px;">Are you experiencing COVID-19 symptoms? Use our symptom checker to assess your condition. By answering a few questions, our system will provide an evaluation based on the symptoms you indicate.</p>
+        <p style="margin-left:30px;font-size:20px;"> Click <a href="/checker" title="Check your COVID-19 symptoms">here</a> to access the symptom checker.</p>
+      </section>
+      
+      <section id="about">
+        <h2>About Outbreaks</h2>
+        <p>An outbreak refers to the sudden occurrence of cases of a particular disease or health condition in a community or population. These outbreaks can range from localized incidents to widespread epidemics.</p>
+        <p><a href="/outbreaks">Stay informed about the latest outbreak statistics of all countries</a> to keep track of the total number of cases and other important data.</p>
+        <p>Outbreak management involves surveillance, rapid response, treatment, and prevention efforts. Communication and public awareness campaigns play a vital role in educating the community about the outbreak, its symptoms, and preventive measures.</p>
+      </section>
+      <h1>How COVID-19 Spreads</h1>
+      <div class="how">
+      <div class="spread">
+        <h3>Coughing Or Sneezing</h3>
+        <p>Coronavirus can spread if an infected person coughs or sneezes</p>
+        <img src="/cough.jpg">
+      </div>
+      <div class="spread">
+        <h3>Close Personal Contact</h3>
+        <p>Direct skin-to-skin contact increases likelihood of infection.</p>
+        <img src="/aab17dd6-image-3-1.png">
+      </div>
+      <div class="spread">
+        <h3>Touching Infected Surfaces</h3>
+        <p>Unsanitized or infected surfaces can increase the likelihood of infection</p>
+        <img  src="/2574a013-image-1-1.png" alt="Description of the image" />
+      </div>
+    </div>
+    <div class="symptoms">
+        <h2 style="margin-left:600px;">Symptoms of COVID-19</h2>
+    <div class="co" >
+        <div style="font-size: 24px;margin-left:50px;">
+        <p style="width:600px;margin-left:30px;">
+        Common symptoms of COVID-19 include 
+        <ul >
+            <li>Fever</li>
+            <li>cough</li>
+            <li>shortness of breath</li>
+            <li>sore throat</li>
+            <li>diarrhea</li>
+            <li>body aches</li>
+        </ul> However, it's important to note that some individuals may be asymptomatic or experience mild symptoms.
+    </p>
+</div>
+    <img  style="width:450px;height:600px;margin-right:100px;"class="hii" src="/covid19-19-coronavirus-symptoms-infographics-set-vector-31202952.jpg">
+</div>
+
+    </div>
+    <div>
+        <h1>Vaccinations</h1>
+        <p style="font-size:24px;margin-left:10px;">COVID-19 vaccines available in the United States effectively protect people from getting seriously ill, 
+            being hospitalized, and even dying.</p>
+        <div class="steps">
+            <div class="s">
+                <p>Book an appointment on cowin or visit any nearby vaccination centres</p>
+                <img src="https://images.indianexpress.com/2021/02/Co-WIN.jpg">
+            </div>
+            <div class="s">
+                <p>Get your vaccination safely by following the guidelines.</p>
+                <img src="/free_covid_precaution_dose.svg">
+            </div>
+            <div class="s">
+                <p>Download vaccination certificate from cowin or click <a href="https://selfregistration.cowin.gov.in/">here</a></p>
+                <img src="/Date_Correction.svg">
+            </div>
+        </div>
+    </div>
+        <script>
+            // Fetch the COVID-19 statistics
+            fetch('https://disease.sh/v3/covid-19/all')
+                .then(response => response.json())
+                .then(data => {
+                    // Display the statistics on the webpage
+                    document.getElementById('statistics').innerHTML = `
+                        <p>Total Cases: ${data.cases}</p>
+                        <p>Total Deaths: ${data.deaths}</p>
+                        <p>Total Recovered: ${data.recovered}</p>
+                    `;
+                })
+                .catch(error => {
+                    console.log(error);
+                });
+        </script>
+
+    </body>
+</html>

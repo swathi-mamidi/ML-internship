@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tuberculosis Detection Form</title>
+    <style>
+       * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            background-image: url("https://st2.depositphotos.com/9137224/48273/v/450/depositphotos_482732542-stock-illustration-3d-human-lungs-medicine-microscopic.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            color: white;
+            height:100vh;
+        }
+        .form{
+            /* margin-top:100px; */
+            border:1px white solid;
+            border-radius:8px;
+            padding:10px;
+            width:800px;
+            margin-left:300px;
+            margin-top:250px;
+        }
+    </style>
+</head>
+<body>
+    
+    <form action="/detection" method="post">
+        <h1 style="margin-left:600px;">Tuberculosis Detection Form</h1>
+        <section style="display:flex;" class="form">
+        <section>
+       
+        
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        
+        <label for="gender">Gender:</label>
+        <input type="radio" id="Male" name="gender" value="1" required>
+        <label for="gender">Male</label>
+        <input type="radio" id="female" name="gender" value="0" required>
+        <label for="fever-no">Female</label><br><br> 
+    </section>  
+        <section>
+        
+        <label for="fever">Fever:</label>
+        <input type="radio" id="fever-yes" name="fever" value="1" required>
+        <label for="fever-yes">Yes</label>
+        <input type="radio" id="fever-no" name="fever" value="0" required>
+        <label for="fever-no">No</label><br><br>
+        
+        <label for="coughing-blood">Coughing Blood:</label>
+        <input type="radio" id="coughing-blood-yes" name="coughing-blood" value="1" required>
+        <label for="coughing-blood-yes">Yes</label>
+        <input type="radio" id="coughing-blood-no" name="coughing-blood" value="0" required>
+        <label for="coughing-blood-no">No</label><br><br>
+    
+        <label for="sputum-mixed">Sputum Mixed with Blood:</label>
+        <input type="radio" id="sputum-mixed-yes" name="sputum-mixed" value="1" required>
+        <label for="sputum-mixed-yes">Yes</label>
+        <input type="radio" id="sputum-mixed-no" name="sputum-mixed" value="0" required>
+        <label for="sputum-mixed-no">No</label><br><br>
+        
+        <label for="nightsweats">Night Sweats:</label>
+        <input type="radio" id="nightsweats-yes" name="nightsweats" value="1" required>
+        <label for="nightsweats-yes">Yes</label>
+        <input type="radio" id="nightsweats-no" name="nightsweats" value="0" required>
+        <label for="nightsweats-no">No</label><br><br>
+        
+        
+    
+        <label for="chest-pain">Chest Pain:</label>
+        <input type="radio" id="chest-pain-yes" name="chest-pain" value="1" required>
+        <label for="chest-pain-yes">Yes</label>
+        <input type="radio" id="chest-pain-no" name="chest-pain" value="0" required>
+        <label for="chest-pain-no">No</label><br><br>
+        
+        <label for="backpain">Back Pain in Certain Periods:</label>
+        <input type="radio" id="backpain-yes" name="backpain" value="1" required>
+        <label for="backpain-yes">Yes</label>
+        <input type="radio" id="backpain-no" name="backpain" value="0" required>
+        <label for="backpain-no">No</label><br><br>
+        </section>
+        <section>
+        <label for="shortness-of-breath">Shortness of Breath:</label>
+        <input type="radio" id="shortness-of-breath-yes" name="shortness-of-breath" value="1" required>
+        <label for="shortness-of-breath-yes">Yes</label>
+        <input type="radio" id="shortness-of-breath-no" name="shortness-of-breath" value="0" required>
+        <label for="shortness-of-breath-no">No</label><br><br>
+        
+        <label for="weight-loss">Weight Loss:</label>
+        <input type="radio" id="weight-loss-yes" name="weight-loss" value="1" required>
+        <label for="weight-loss-yes">Yes</label>
+        <input type="radio" id="weight-loss-no" name="weight-loss" value="0" required>
+        <label for="weight-loss-no">No</label><br><br>
+        
+  
+        <label for="lumps">Lumps that Appear around Armpits:</label>
+        <input type="radio" id="lumps-yes" name="lumps" value="1" required>
+        <label for="lumps-yes">Yes</label>
+        <input type="radio" id="lumps-no" name="lumps" value="0" required>
+        <label for="lumps-no">No</label><br><br>
+        
+        <label for="cough-phlegm">Cough and Phlegm Continuously for 2 Weeks:</label>
+        <input type="radio" id="cough-phlegm-yes" name="cough-phlegm" value="1" required>
+        <label for="cough-phlegm-yes">Yes</label>
+        <input type="radio" id="cough-phlegm-no" name="cough-phlegm" value="0" required>
+        <label for="cough-phlegm-no">No</label><br><br>
+        
+        <label for="lymph-nodes">Swollen Lymph Nodes:</label>
+        <input type="radio" id="lymph-nodes-yes" name="lymph-nodes" value="1" required>
+        <label for="lymph-nodes-yes">Yes</label>
+        <input type="radio" id="lymph-nodes-no" name="lymph-nodes" value="0" required>
+        <label for="lymph-nodes-no">No</label><br><br>
+        
+        <label for="appetite">Loss of Appetite:</label>
+        <input type="radio" id="appetite-yes" name="appetite" value="1" required>
+        <label for="appetite-yes">Yes</label>
+        <input type="radio" id="appetite-no" name="appetite" value="0" required>
+        <label for="appetite-no">No</label><br><br>
+        
+    </section>
+    </section>
+        <input style="margin-left:650px;padding:5px;margin-top:10px;"type="submit" value="Submit">
+   
+        </form>
+</body>
+</html>

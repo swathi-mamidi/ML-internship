@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            *{
+          padding:0;
+          margin:0;
+
+        }
+        body{
+          background-color: rgba(0,73,154,0.3);
+        }
+        #nav-wrapper {
+      background-color:rgb(13,107,130);
+      padding: 10px;
+    }
+
+    .nav-bar {
+      display: flex;
+      justify-content: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      padding: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    nav ul li a:hover {
+      background-color:rgb(150,252,254);
+    }
+
+    /* Styling for the animation transition */
+    .links li a {
+      position: relative;
+      transition: color 0.3s ease;
+    }
+
+    .links li a:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 2px;
+      bottom: -5px;
+      left: 0;
+      background-color: #fff;
+      visibility: hidden;
+      transform: scaleX(0);
+      transition: all 0.3s ease-in-out 0s;
+    }
+
+    .links li a:hover:before {
+      visibility: visible;
+      transform: scaleX(1);
+    }
+    h2 {
+      font-size: 24px;
+      color:rgb(13,107,130);
+      text-align: center;
+      font-style: italic;
+    }
+    p {
+      font-family: "Arial", sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+     
+    }
+    .m{
+        margin-top:20px;
+    }
+        </style>
+        
+    </head>
+    <body>
+        
+        <header id="nav-wrapper">
+            <div class="nav-bar">
+              <nav>
+                  <ul class="links">
+                      <li><a href="/about">About us</a></li>
+                      <li><a href="/contact">Contact</a></li>
+                      <li><a href="/Symptom/predict">Symptom checker</a></li>
+                      <li><a href="/tb">Tbchecker</a></li>
+                  </ul>
+              </nav>
+            </div>
+          </header>
+     <div class="m">
+        <section>
+            <h2>Our Mission</h2>
+            <p>At Communicable Diseases Information, our mission is to provide accurate and up-to-date information about communicable diseases, particularly COVID-19 and tuberculosis. We aim to raise awareness, promote prevention, and support individuals and communities in their fight against these diseases.</p>
+          </section>
+     </div>
+     <div class="covid">
+        <h2>COVID-19</h2>
+        <p>A person's likelihood of being diagnosed with COVID-19 can be predicted by entering their symptoms into a form utilizing a machine learning algorithm. This advanced technology analyzes the provided symptoms and provides an assessment, helping determine whether the individual is potentially affected by the virus or not. By leveraging the power of machine learning, this predictive system enhances the accuracy and efficiency of diagnosing COVID-19 based on symptom data.</p>
+     </div>
+     <div class="tuber">
+        <h2>Tuberculosis</h2>
+        <p>A person's likelihood of being diagnosed with Tuberculosis can be predicted by entering their symptoms into a form utilizing a machine learning algorithm. This advanced technology analyzes the provided symptoms and provides an assessment, helping determine whether the individual is potentially affected by the virus or not. 
+            By leveraging the power of machine learning, this predictive system enhances the accuracy and efficiency of diagnosing Tuberculosis based on symptom data.</p>
+
+     </div>
+     <div class="team">
+        <h2>Our Team</h2>
+        <p>Our dedicated team at Communicable Diseases Information is composed of experts in the field of infectious diseases and public health. With a deep understanding of COVID-19, tuberculosis, and other communicable diseases, our team works tirelessly to gather, curate, and present accurate information to empower individuals and communities in their efforts to combat these diseases.</p>
+      </div>
+      
+      <div class="resources">
+        <h2>Resources</h2>
+        <p>We provide a range of resources to help you stay informed and educated about communicable diseases:</p>
+        <ul>
+            <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">Informational articles and guides</a></li>
+           <li><a href="https://www.who.int/health-topics/coronavirus#tab=tab_1">Infographics and visual materials</a></li>
+         <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html">Prevention and safety tips</a></li>
+           <li><a href="https://www.who.int/health-topics/coronavirus#tab=tab_2">Links to trusted external resources</a></li>
+
+        </ul>
+        <p>Feel free to explore our website to access these valuable resources and stay updated with the latest developments in the field of communicable diseases.</p>
+      </div>
+      
+    </body>
+</html>

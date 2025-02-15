@@ -1,0 +1,194 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>COVID-19 Predictions</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>COVID-19 Predictions</h1>
+    <form action="/date" method="post">
+        <label for="date-input">Select a date:</label>
+        <input type="date" id="date-input" name="date">
+        <button type="submit">Predict</button>
+    </form>
+    <input type="text" id="search-input" placeholder="Search for a country">
+    <table id="predictions-table">
+        <tr>
+            <th>Country</th>
+            <th>Prediction</th>
+        </tr>
+    </table>
+    <div id="result">Statistics</div>
+    <button onclick="fetchData()"  >Click</button>
+    <script>
+        function fetchData() {
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function() {
+                const data = this.responseText;
+                const predictions = data.split('\n');
+                const table = document.getElementById('predictions-table');
+                
+                for (let i = 0; i < predictions.length; i++) {
+                    const prediction = predictions[i].split(':');
+                    const country = prediction[0].trim();
+                    const value = prediction[1].replace(':', '').trim();
+                    
+                    const row = document.createElement('tr');
+                    const countryCell = document.createElement('td');
+                    const valueCell = document.createElement('td');
+                    
+                    countryCell.textContent = country;
+                    valueCell.textContent = value;
+                    
+                    row.appendChild(countryCell);
+                    row.appendChild(valueCell);
+                    
+                    table.appendChild(row);
+                }
+            }
+            xhttp.open('GET', 'sample.txt', true);
+            xhttp.send();
+        }
+        
+        function search() {
+    const input = document.getElementById('search-input');
+    const filter = input.value.toUpperCase();
+    const table = document.getElementById('predictions-table');
+    const rows = table.getElementsByTagName('tr');
+
+    let matchIndex = -1;
+
+    // Find the index of the matched row
+    for (let i = 0; i < rows.length; i++) {
+        const countryCell = rows[i].getElementsByTagName('td')[0];
+        if (countryCell) {
+            const country = countryCell.textContent || countryCell.innerText;
+            if (country.toUpperCase().indexOf(filter) > -1) {
+                matchIndex = i;
+                break;
+            }
+        }
+    }
+
+    // Display the matched row and the next three rows
+    for (let i = 0; i < rows.length; i++) {
+        if (matchIndex > -1 && i >= matchIndex && i < matchIndex + 4) {
+            rows[i].style.display = '';
+        } else {
+            rows[i].style.display = 'none';
+        }
+    }
+}
+
+        
+        document.getElementById('search-input').addEventListener('keyup', search);
+    </script>
+</body>
+</html> 
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>COVID-19 Predictions</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>COVID-19 Predictions</h1>
+    <input type="text" id="search-input" placeholder="Search for a country">
+    <table id="predictions-table">
+        <tr>
+            <th>Country</th>
+            <th>Next 24 Hours</th>
+            <th>Next 1 Week</th>
+        </tr>
+    </table>
+    <script >
+        function fetchData() {
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    const data = JSON.parse(this.responseText);
+    const table = document.getElementById('predictions-table');
+    
+    data.forEach(prediction => {
+      const row = document.createElement('tr');
+      
+      const countryCell = document.createElement('td');
+      countryCell.textContent = prediction.country;
+      
+      const next24HoursCell = document.createElement('td');
+      next24HoursCell.textContent = prediction['Next 24 Hours'];
+      
+      const next1WeekCell = document.createElement('td');
+      next1WeekCell.textContent = prediction['Next 1 Week'];
+      
+      row.appendChild(countryCell);
+      row.appendChild(next24HoursCell);
+      row.appendChild(next1WeekCell);
+      
+      table.appendChild(row);
+    });
+  }
+  xhttp.open('GET', '/predicted-data', true);
+  xhttp.send();
+}
+
+function search() {
+  const input = document.getElementById('search-input');
+  const filter = input.value.toUpperCase();
+  const table = document.getElementById('predictions-table');
+  const rows = table.getElementsByTagName('tr');
+  
+  for (let i = 0; i < rows.length; i++) {
+    const countryCell = rows[i].getElementsByTagName('td')[0];
+    if (countryCell) {
+      const country = countryCell.textContent || countryCell.innerText;
+      if (country.toUpperCase().indexOf(filter) > -1) {
+        rows[i].style.display = '';
+      } else {
+        rows[i].style.display = 'none';
+      }
+    }
+  }
+}
+
+document.getElementById('search-input').addEventListener('keyup', search);
+
+// Fetch data when the page loads
+fetchData();
+
+    </script>
+</body>
+</html> -->
+
+

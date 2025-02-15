@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            background-image: url("WhatsApp Image 2023-06-10 at 10.15.42 PM.jpeg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            color: white;
+            height:100vh;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .chsym {
+            background-color: rgba(0,28,50, 0.5);
+            padding: 20px;
+            max-width: 800px;
+            margin: 40px auto;
+            border-radius: 5px;
+            /* display: grid;
+            grid-template-columns: 1fr 1fr 1fr; /* Added this line */
+            grid-gap: 10px;  
+            margin-top:50px;
+            
+        }
+
+        .chsym label {
+            display: inline-block;
+            margin-bottom: 5px;
+           
+        }
+
+        /* .chsym input[type="text"],
+        .chsym input[type="number"],
+        .chsym input[type="email"],
+        .chsym input[type="checkbox"] {
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        } */
+
+        .chsym button[type="Submit"] {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: rgb(13, 107, 130);
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .chsym button[type="Submit"]:hover {
+            background-color: rgb(150, 252, 254);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="chsym" style="margin-top:300px;" >
+        <form action="/checker" method="post" >
+            <div style="display:flex;">
+                <section>
+            <h2>Personal Information</h2>
+            
+            <section style="display:flex;">
+                <section>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </section>
+                <section>
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" name="age" required><br>
+                </section>
+            </section>
+
+            <label for="email">Email:</label>
+            <input type="email" name="email" required style="width:370px;">
+        </section>
+        <section>
+            <h2>Symptoms</h2>
+            <p>Select the symptoms you are experiencing:</p>
+            
+            <label for="cough">Cough:</label><br>
+            <input type="checkbox" id="cough" name="cough" value="1">
+            <label for="cough_yes">Yes</label>
+            <input type="checkbox" id="cough_yes" name="cough" value="0">
+            <label for="cough_no">No</label><br>
+
+            <label for="fever">Fever:</label><br>
+            <input type="checkbox" id="fever" name="fever" value="1">
+            <label for="fever_yes">Yes</label>
+            <input type="checkbox" id="fever_yes" name="fever" value="0">
+            <label for="fever_no">No</label><br>
+            
+            <label for="sore_throat">Sore Throat:</label><br>
+            <input type="checkbox" id="sore_throat" name="sore_throat" value="1">
+            <label for="sore_throat_yes">Yes</label>
+            <input type="checkbox" id="sore_throat_yes" name="sore_throat" value="0">
+            <label for="sore_throat_no">No</label><br>
+            
+            <label for="shortness_of_breath">Shortness of Breath:</label><br>
+            <input type="checkbox" id="shortness_of_breath" name="shortness_of_breath" value="1">
+            <label for="shortness_of_breath_yes">Yes</label>
+            <input type="checkbox" id="shortness_of_breath_yes" name="shortness_of_breath" value="0">
+            <label for="shortness_of_breath_no">No</label><br>
+        </section>
+        <section>
+            <label for="head_ache">Headache:</label><br>
+            <input type="checkbox" id="head_ache" name="head_ache" value="1">
+            <label for="head_ache_yes">Yes</label>
+            <input type="checkbox" id="head_ache_yes" name="head_ache" value="0">
+            <label for="head_ache_no">No</label><br>
+            
+            <label for="age_60_and_above">Age 60 and Above:</label><br>
+            <input type="checkbox" id="age_60_and_above" name="age_60_and_above" value="1">
+            <label for="age_60_and_above_yes">Yes</label>
+            <input type="checkbox" id="age_60_and_above_yes" name="age_60_and_above" value="0">
+            <label for="age_60_and_above_no">No</label><br>
+            
+            <label for="gender">Gender:</label><br>
+            <input type="checkbox" id="gender" name="gender" value="1">
+            <label for="gender_yes">Male</label>
+            <input type="checkbox" id="gender_yes" name="gender" value="0">
+            <label for="gender_no">Female</label><br>
+
+            <button type="submit">Submit</button>
+        </section>
+    </div>
+        </form>
+    </div>
+</body>
+</html>
